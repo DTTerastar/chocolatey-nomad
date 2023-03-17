@@ -6,7 +6,7 @@
 
 Chocolatey package for [Nomad](https://www.nomadproject.io/).
 
-This package installs Nomad as a service, using NSSM as the service wrapper.
+This package installs Nomad as a service.
 
 ## Updating the package
 
